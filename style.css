@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-image: url(photo.jpg);
+  margin-top: 20px;
+  float: center;
+
+}
+.contanier{
+  text-align: center;
+  font-size: 40px;
+  color: orange;
+  padding: 30px;
+  border: 2px solid black;
+  display: inline-block;
+  position: relative;
+  left: 400px;
+  background-color: #444344;
+}
+#screen{
+  font-size: 30px;
+  margin-top: 35px;
+  border-radius: 10px;
+}
+table{
+  margin: auto;
+  margin-top: 20px;
+}
+button{
+  font-size: 20px;
+  padding: 20px;
+  margin: 5px;
+  border: 2px;
+  border-radius: 40px;
+}
+button:hover{
+  background-color: orange;
+}
